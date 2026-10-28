@@ -1,0 +1,15 @@
+Xiaomi 15 / dada CVE-2026-64560 adaptation
+Copyright 2026 the adaptation contributors
+
+This product includes software derived from the CVE-2026-64560 Android proof
+of concept in NebuSec/CyberMeowfia, copyright 2026 Nebula Security, licensed
+under the Apache License, Version 2.0.
+
+The upstream work was substantially modified for the exact Xiaomi 15 build
+listed in README.md. Changes include the device profile, allocator and race
+parameters, validation and restoration gates, physical-memory and credential
+stages, temporary-su helper, reproducible build, and adaptive runner. Exact
+provenance is recorded in docs/UPSTREAM.md.
+
+No Xiaomi firmware, boot image, raw kernel Image, private key, account token,
+or device-unique secret is included.

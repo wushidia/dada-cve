@@ -1,0 +1,19 @@
+/ghostlock
+local.properties
+.gradle/
+.idea/
+.kotlin/
+cmake-build-*/
+*.iml
+app/build/
+build/
+/.build/
+.DS_Store
+__pycache__
+/devices
+target/
+*.jks
+*.keystore
+/.codex/
+/src/.codex/config.toml
+/ghostlock *
